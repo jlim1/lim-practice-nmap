@@ -1,0 +1,2 @@
+<!-- Each port records the state observed in this sample inventory. -->
+<nmaprun><host><address addr="192.0.2.10"/><ports><port protocol="tcp" portid="443"><state state="open"/><service name="https"/></port><port protocol="tcp" portid="80"><state state="closed"/><service name="http"/></port></ports></host></nmaprun>
